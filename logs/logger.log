@@ -1,0 +1,135 @@
+2021-01-30 15:02:43,930 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Properties are set
+2021-01-30 15:02:44,115 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Displaying greeting text.
+2021-01-30 15:02:48,272 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:02:48,284 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:02:51,705 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:02:51,708 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:02:51,708 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:02:54,803 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:02:54,810 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:02:54,811 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:03:12,154 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:03:12,161 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:09:23,942 INFO [main] com.bot.demo.Bots2Application Object TelegramBotsApi has been initialized.
+2021-01-30 15:10:10,939 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot /start was selected
+2021-01-30 15:10:10,973 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Properties are set
+2021-01-30 15:10:11,685 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Database has been connected
+2021-01-30 15:10:11,687 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Getting user from DB
+2021-01-30 15:10:12,003 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Closing database
+2021-01-30 15:10:12,010 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Displaying greeting text.
+2021-01-30 15:10:13,912 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu EUR/UAH SELECTED.
+2021-01-30 15:10:15,699 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu Ощадбанк SELECTED.
+2021-01-30 15:10:15,700 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:15,702 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:15,703 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:18,113 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:10:18,126 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:18,127 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:18,127 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:10:19,240 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:10:19,241 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:19,243 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:19,243 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:22,292 ERROR [@TestGareBot Telegram Executor] com.bot.demo.Page Error java.net.SocketTimeoutException: connect timed out
+2021-01-30 15:10:24,467 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu money24.kharkov.ua SELECTED.
+2021-01-30 15:10:24,468 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:24,469 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:24,469 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:25,656 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:10:25,663 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:25,663 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:25,663 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:10:27,097 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:10:27,097 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:27,097 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:27,097 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:30,098 ERROR [@TestGareBot Telegram Executor] com.bot.demo.Page Error java.net.SocketTimeoutException: connect timed out
+2021-01-30 15:10:32,053 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu Ощадбанк SELECTED.
+2021-01-30 15:10:32,054 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:32,055 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:32,055 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:34,400 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:10:34,402 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:34,402 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:34,403 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:10:35,699 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:10:35,699 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:35,700 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:35,700 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:36,711 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:10:36,714 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:36,715 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:10:38,699 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu money24.kharkov.ua SELECTED.
+2021-01-30 15:10:38,702 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:10:38,702 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:10:38,702 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:10:39,201 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:10:39,206 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:39,207 WARN [@TestGareBot Telegram Executor] com.bot.demo.Page The string is not numeric.
+2021-01-30 15:10:39,207 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:11:44,459 INFO [main] com.bot.demo.Bots2Application Object TelegramBotsApi has been initialized.
+2021-01-30 15:11:52,327 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot /start was selected
+2021-01-30 15:11:52,340 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Properties are set
+2021-01-30 15:11:52,584 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Database has been connected
+2021-01-30 15:11:52,585 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Getting user from DB
+2021-01-30 15:11:52,600 INFO [@TestGareBot Telegram Executor] com.bot.demo.UsersData Closing database
+2021-01-30 15:11:52,601 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Displaying greeting text.
+2021-01-30 15:11:55,034 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu EUR/UAH SELECTED.
+2021-01-30 15:11:56,084 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu Ощадбанк SELECTED.
+2021-01-30 15:11:56,085 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:11:56,088 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:11:56,089 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:11:58,478 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:11:58,491 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:11:59,775 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:11:59,776 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:11:59,776 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:11:59,777 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:01,402 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:01,405 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:12:02,414 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu money24.kharkov.ua SELECTED.
+2021-01-30 15:12:02,415 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:02,416 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:02,416 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:03,778 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:03,786 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about EUR
+2021-01-30 15:12:05,415 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu of currency is displayed.
+2021-01-30 15:12:06,637 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu USD/UAH SELECTED.
+2021-01-30 15:12:07,743 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu Ощадбанк SELECTED.
+2021-01-30 15:12:07,745 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:07,745 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:07,745 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:09,875 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:09,879 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about USD
+2021-01-30 15:12:10,814 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:12:10,817 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:10,817 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:10,817 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:11,900 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:11,902 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about USD
+2021-01-30 15:12:12,853 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu money24.kharkov.ua SELECTED.
+2021-01-30 15:12:12,854 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:12,854 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:12,854 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:13,320 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:13,327 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about USD
+2021-01-30 15:12:14,731 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu of currency is displayed.
+2021-01-30 15:12:16,270 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu RUB/UAH SELECTED.
+2021-01-30 15:12:17,307 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu Ощадбанк SELECTED.
+2021-01-30 15:12:17,308 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:17,308 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:17,309 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:19,471 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:19,475 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about RUB
+2021-01-30 15:12:21,652 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu ПриватБанк SELECTED.
+2021-01-30 15:12:21,653 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:21,653 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:21,653 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:22,353 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:22,356 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about RUB
+2021-01-30 15:12:24,193 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Menu money24.kharkov.ua SELECTED.
+2021-01-30 15:12:24,194 INFO [@TestGareBot Telegram Executor] com.bot.demo.GaretBot Getting data of selected currency
+2021-01-30 15:12:24,194 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Page`s constructor have been run.
+2021-01-30 15:12:24,194 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Connecting to the page.
+2021-01-30 15:12:24,832 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Getting value of all td-tags.
+2021-01-30 15:12:24,835 INFO [@TestGareBot Telegram Executor] com.bot.demo.Page Added data in arrayList about RUB
